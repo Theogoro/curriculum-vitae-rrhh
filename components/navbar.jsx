@@ -29,7 +29,7 @@ export default function navbar(props) {
   }
   return (
     <div className="navbar navbar-light navbar-expand-md border-bottom">
-      <div className="navbar-brand">📰 Theo Berta</div>
+      <div className="navbar-brand">📰 Th&eacute;o Berta</div>
       <button
         class="navbar-toggler"
         type="button"

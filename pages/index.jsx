@@ -11,7 +11,7 @@ export default function index() {
   return (
     <div className="index">
       <Helmet>
-        <title>Hola, soy Theo Berta 👋</title>
+        <title>Hola, soy Th&eacute;o Berta 👋</title>
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"

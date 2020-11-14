@@ -29,7 +29,7 @@ export default function contact(props) {
   };
   return (
     <div id="contact" className="contact container">
-      <h2 className="text-center">Contáctame 📞</h2>
+      <h2 className="text-center">Cont&aacute;ctame 📞</h2>
       <p className="text-center">👇Encontrame en mis redes sociales 👇</p>
       <div className="row justify-content-center" style={contantWrapperStyle}>
         {redes.map((e, key) => (
